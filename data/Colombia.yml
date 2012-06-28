@@ -1,0 +1,92 @@
+---
+Antioquia:
+  Apartado: []
+  Betania: []
+  Dabeiba: []
+  El Bagre: []
+  Medellín: []
+  San Juan D Moro: []
+  Turbo: []
+Arauca:
+  Arauca: []
+  Las Morochas: []
+  Saravena: []
+  Stallavena: []
+  Tame: []
+Atlantico:
+  Barranquilla: []
+  Puerto Colombia: []
+Bolivar:
+  Caicara de Orinoco: []
+  Los Pijiguaos: []
+  Puerto Ordaz: []
+  Tumeremo: []
+  Uriman: []
+Boyaca:
+  Garagoa: []
+  Moniquira: []
+  Nobsa: []
+  Samaca: []
+  Umbita: []
+Caldas:
+  La Dorada: []
+  Manizales: []
+Cauca:
+  El Mojon: []
+  El Palo: []
+  Guapi: []
+Cesar:
+  Astrea: []
+  Gamarra: []
+  Valledupar: []
+Choco:
+  Quibdó: []
+Cundinamarca:
+  ! '''Aqaba': []
+  Asunción: []
+  Bogotá: []
+  Cachipay: []
+  Guaduas: []
+  Mírina: []
+  Ritsóna: []
+  San José: []
+La Guajira:
+  Riohacha: []
+Magdalena:
+  Cienaga: []
+  Fundacion: []
+  Santa Marta: []
+Meta:
+  Api Api: []
+  Lejanias: []
+  Puerto Gaitan: []
+  Puerto Lleras: []
+Narino:
+  Pasto: []
+  Tumaco: []
+Norte de Santander:
+  Barrancabermeja: []
+  Bucaramanga: []
+  Cucuta: []
+  Puerto Berrio: []
+  San Gil: []
+Risaralda:
+  Pereira: []
+  Villa d'Adda: []
+Sucre:
+  Araya: []
+  Carupano: []
+  Covenas: []
+  Cumana: []
+  El Guamache: []
+  Guiria: []
+  Puerto de Hierro: []
+  Punta de Piedra: []
+  Since: []
+Valle del Cauca:
+  Buenaventura: []
+  Buga: []
+  Cali: []
+  Cartago: []
+  Simon Bolivar: []
+  Yumbo: []
