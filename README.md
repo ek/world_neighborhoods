@@ -1,16 +1,36 @@
-# World Neighborhoods
+# Do you know the names of the neighborhoods in your city? Contribute to the world neighborhoods list!
 
-World Neighborhoods is a world-wide locations database.
+## Edit directly in your browser here on Github, it's easy:
 
+1. **Edit** the `.yml` file for your country.
+2. **Type** the names of the neighborhoods in your city.
+3. **Done** - You have just made a contribution to humanity. Pat yourself on the back.
+
+Please format the list like this:
+````
+State_or_province_name:
+  City_name:
+  - Neighborhood One
+  - Neighborhood Two
+  - Neighborhood Three
+````
+
+Here is a sample file for [Buenos Aires, Argentina](https://github.com/tute/world_neighborhoods/blob/master/data/Argentina.yml#L189).
+
+---
+# WHY?
+
+Because a free and open list of neighborhoods simply does not exist on the internet.
+_WAT? How can this be?_
+Yes we were suprised also. Help turn this **WAT?** into an **OMG!**
+
+World Neighborhoods is a world-wide neighborhoods database.
 The goal is to build a hierarchycally organized list of world-wide locations,
-from Countries to Neighborhoods.
+from countries all the way down to neighborhoods.
 
-It was  extracted from [ChefSurfing.com](https://chefsurfing.com/).
+The names of cities were extracted from [ChefSurfing.com](https://chefsurfing.com/).
 
-## How to contribute
-
-In `data` folder there's a file per country with it's divisions, cities and
-neighborhoods list hierarchycally organized.
+## Notes on editing:
 
 You may edit the files either through Github's web interface (just go to the
 file you want to improve, click "Edit this file" link and send the updates),
