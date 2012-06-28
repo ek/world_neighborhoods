@@ -25,7 +25,7 @@ _WAT? How can this be?_
 Yes we were suprised also. Help turn this **WAT?** into an **OMG!**
 
 World Neighborhoods is a world-wide neighborhoods database.
-The goal is to build a hierarchycally organized list of world-wide locations,
+The goal is to build a hierarchically organized list of world-wide locations,
 from countries all the way down to neighborhoods.
 
 The names of cities were extracted from [ChefSurfing.com](https://chefsurfing.com/).
